@@ -1,0 +1,203 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.image {
+    position: absolute;
+    margin-left: -42px;
+}
+
+.input {
+    padding: 7px;
+    border-radius: 3px;
+    border: 2px solid #343a40;
+    border-radius: 5px;
+    width: 149px;
+
+}
+
+.div {
+    display: flex;
+    align-self: center;
+
+
+}
+
+.container {
+    display: flex;
+    gap: 15px;
+    color: rgb(129, 128, 128);
+
+}
+
+.list-1 {
+    font-size: larger;
+    color: white;
+    list-style-type: none;
+}
+
+.list {
+    list-style-type: none;
+    font-size: small;
+    place-self: center;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    gap: 117px;
+    align-items: center;
+    background-color: #343a40;
+    padding: 10px;
+}
+
+section {
+    background-color: #1f9eed;
+    color: white;
+}
+
+.image-2 {
+    display: flex;
+    justify-self: center;
+    padding-top: 90px;
+}
+
+.para {
+    font-family: system-ui;
+    display: flex;
+    justify-self: center;
+    width: 51vw;
+    flex-wrap: wrap;
+    text-align: center;
+    padding: 40px;
+    font-size: 28px;
+    font-weight: 300;
+    margin: 21px;
+}
+.top{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 90px;
+    
+}
+.button{
+    border: 2px solid white;
+    background-color: #1f9eed;
+    outline: none;
+    border-radius: 5px;
+    border-color: white;
+    width: 193px;
+    height: 54px;
+    font-weight: 400;
+    font-size: large;
+    padding: 15px;
+    color: white;
+    transition: all 0.2s ;
+}
+.button:hover {
+    background-color: white;
+    color: #1f9eed;
+}
+.div-2{
+   display: flex;
+   justify-self: center;
+   padding-top: 30px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: small;
+}
+.div-3{
+    display: flex;
+    justify-self: center;
+    padding-top: 10px;
+    font-family: system-ui;
+    font-weight: 300;
+}
+.container-2{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 150px;
+    gap: 80px;
+  
+}
+.stack{
+    padding-top: 30px;
+    text-align: center;
+}
+.para-2{
+font-size: x-large;
+font-family: Arial, Helvetica, sans-serif;
+}
+.para-3{
+ font-size: x-small;
+ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+ padding-top: 5px;
+}
+.para-4{
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.para-5{
+    font-size: x-small;
+ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+ padding-top: 5px;
+}
+.para-6{
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.para-7{
+    font-size: x-small;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-top: 5px; 
+}
+.stack-2{
+    width: 18vw;
+}
+.stack-1{
+    width: 16vw;
+}
+.stack-3{
+width: 16vw;
+}
+.heading {
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    border-top: 2px solid #a8a8a8;
+    padding-top: 20px;
+    margin-top: 40px;
+    width: 100%;
+    align-self: center;
+}
+.next{
+    display: flex;
+    justify-self: center;
+    font-size: medium;
+    font-weight: 300;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-top: 5px;
+}
+.last{
+    display: flex;
+    justify-self: center;
+    padding: 60px;
+}
+.button-2{
+    width: 143px;
+    height: 50px;
+    background-color: white;
+    color: #1f9eed;
+    font-size: medium;
+    border: 2px solid #1f9eed;
+    border-radius: 5px;
+    transition: all 0.2s ease;
+}
+.button-2:hover{
+    background-color: #1f9eed;
+    color: white;
+}
+.container-3{
+    margin: -60px;
+}
